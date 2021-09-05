@@ -1,0 +1,6 @@
+.bgimg{
+    background-image: url('qq.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
